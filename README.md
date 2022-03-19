@@ -1,7 +1,6 @@
 # Welcome!
 My name is Humberto, I'm from Mexico... There's a lot to tell, but I'll do it on my own website once I build it.
 
-## Dev preferences:
 ### Likes
 - Flutter
 - Node.js
