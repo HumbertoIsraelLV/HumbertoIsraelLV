@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @HumbertoIsraelLV
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Welcome!
+Hi! My name is Humberto, I'm from Mexico... There's a lot to tell but I'll do it in my own website once I build it.
 
-<!---
-HumbertoIsraelLV/HumbertoIsraelLV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Dev preferences:
+### Likes
+- Flutter
+- Node.js
+- MongoDB
+### Exploring
+- Typescript
+- React
+- Frontend Developer role
+### Dislikes
+- Quality Assurance Engineer role
