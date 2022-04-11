@@ -1,5 +1,5 @@
 # Welcome!
-My name is Humberto. There's a lot to tell, but I'll do it on my own website once I build it.
+My name is Humberto. Would you like to see more about me, checkout my website or my LinkedIn profile!
 
 ### Likes
 - Flutter
@@ -8,6 +8,7 @@ My name is Humberto. There's a lot to tell, but I'll do it on my own website onc
 ### Exploring
 - Typescript
 - React
+- Firebase
 - Frontend Developer role
 ### Dislikes
 - Quality Assurance Engineer role
