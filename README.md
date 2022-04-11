@@ -1,5 +1,5 @@
 # Welcome!
-My name is Humberto. Would you like to see more about me, checkout my website or my LinkedIn profile!
+My name is Humberto. Would you like to see more about me? Checkout my website or my LinkedIn profile!
 
 ### Likes
 - Flutter
